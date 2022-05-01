@@ -20,6 +20,8 @@ git push
 
 ```
 
+![](https://i.imgur.com/iYbhwu4.png)
+
 | window | 說明 |
 | -----|------|
 | touch | 新建檔案 |
