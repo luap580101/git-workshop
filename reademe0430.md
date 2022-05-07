@@ -32,3 +32,31 @@ git push
 | cls | 清除 |
 
 
+```bash=
+# 檢視分支
+git branch
+
+# 新增分支
+git branch {branch-name}
+
+# 切換分支
+git switch {branch-name}
+git checkout {branch-name}
+
+# 合併分支
+# 先切換到 main
+git switch main
+# 再合併進來
+git merge seconds
+
+# 刪除本地分支
+git branch -d {branch-name}
+
+#github
+git remote add origin http:
+git branch -M main
+git push -u origin main
+
+git branch -M second
+git push -u origin second
+```
